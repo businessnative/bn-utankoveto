@@ -1,0 +1,10 @@
+{
+  "id": "utankoveto",
+  "title": "Utánkövető",
+  "group": "Ügyfélszerzés",
+  "description": "Lásd, kinek és mikor esedékes az utánkövetés, és készíts választervezetet.",
+  "number": 7,
+  "repo": "bn-utankoveto",
+  "baseVersion": "0.2.0",
+  "baseSha256": "2ac86b0161d276dfb52eaed1c061d34fe95bc69ff7e9bbc7c657ee75780285f5"
+}

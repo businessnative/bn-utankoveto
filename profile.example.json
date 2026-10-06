@@ -1,0 +1,16 @@
+{
+  "name": "Saját vállalkozás – beállítás szükséges",
+  "services": [
+    "Tanácsadás"
+  ],
+  "minimumBudget": 0,
+  "currency": "HUF",
+  "timezone": "Europe/Budapest",
+  "bookingUrl": "",
+  "tone": "közvetlen, tárgyszerű",
+  "followupOffsets": [
+    3,
+    7
+  ],
+  "catalog": []
+}
